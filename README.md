@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3><p align="left">
   <a href="https://www.embarcadero.com/news/logo" target="_blank" rel="noreferrer">
-    <img src="https://icon-icons.com/downloadimage.php?id=130648&root=2107/SVG/&file=file_type_delphi_icon_130648.svg" alt="delphi" width="40" height="40" />
+    <img src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png" alt="delphi" width="40" height="40" />
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
