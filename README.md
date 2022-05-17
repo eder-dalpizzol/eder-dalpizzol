@@ -12,6 +12,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3><p align="left">
+  <a href="https://www.lazarus-ide.org/" target="_blank" rel="noreferrer">
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/lazarus-icon.png" alt="lazarus" width="40" height="40" />
+  </a>
   <a href="https://www.embarcadero.com/news/logo" target="_blank" rel="noreferrer">
     <img src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-1024.png" alt="delphi" width="40" height="40" />
   </a>
