@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **dalpizzol.eder@gmail.com**
 
-- ⚡ Fun fact **I love Delphi but i use Lazarus**
 
 
 
