@@ -1,4 +1,4 @@
-- 👨‍💻 All of my useful links are available at [https://linktr.ee/dalpizzol](https://linktr.ee/dalpizzol
+- 👨‍💻 All of my useful links are available at [https://linktr.ee/dalpizzol](https://linktr.ee/dalpizzol)
 
 - 📫 How to reach me **dalpizzol.eder@gmail.com**
 
