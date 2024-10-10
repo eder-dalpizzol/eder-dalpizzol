@@ -1,9 +1,4 @@
-<h3 align="center">A simple Linux enthusiast aspiring gamedev to be for about 10 years (but we never have a chance to study properly... thats why you dont make 3 children)</h3>
-
-
-- 👨‍💻 All of my useful links are available at [https://linktr.ee/dalpizzol](https://linktr.ee/dalpizzol)
-
-- 💬 I like to help in **Delphi**
+- 👨‍💻 All of my useful links are available at [https://linktr.ee/dalpizzol](https://linktr.ee/dalpizzol
 
 - 📫 How to reach me **dalpizzol.eder@gmail.com**
 
