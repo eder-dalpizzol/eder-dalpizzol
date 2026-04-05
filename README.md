@@ -166,11 +166,14 @@ Experienced **Senior Software Developer** with **13+ years** in software develop
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/eder-dalpizzol)
+<a href="https://github.com/eder-dalpizzol">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/eder-dalpizzol)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true)](https://github.com/eder-dalpizzol)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 </div>
 
