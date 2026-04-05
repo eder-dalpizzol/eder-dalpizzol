@@ -166,11 +166,11 @@ Experienced **Senior Software Developer** with **13+ years** in software develop
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
