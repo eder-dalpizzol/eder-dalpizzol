@@ -162,20 +162,39 @@ Experienced **Senior Software Developer** with **13+ years** in software develop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/eder-dalpizzol">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-eder--dalpizzol-181717?style=for-the-badge&logo=github)](https://github.com/eder-dalpizzol)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20All-2ea44f?style=for-the-badge)](https://github.com/eder-dalpizzol?tab=repositories)
 
 </div>
+
+### 🏆 Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💼 Professional Focus
+- 13+ years of software development
+- ERP & Banking systems specialist
+- Full-stack development expertise
+- Agile methodologies practitioner
+
+</td>
+<td width="50%">
+
+#### 🎯 Current Goals
+- Deepening Java/Spring Boot expertise
+- Microservices architecture
+- Cloud-native applications
+- Open source contributions
+
+</td>
+</tr>
+</table>
 
 ---
 
