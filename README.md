@@ -166,11 +166,11 @@ Experienced **Senior Software Developer** with **13+ years** in software develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eder-dalpizzol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/eder-dalpizzol)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eder-dalpizzol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/eder-dalpizzol)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eder-dalpizzol&theme=tokyonight&hide_border=true)](https://github.com/eder-dalpizzol)
 
 </div>
 
